@@ -1,0 +1,3 @@
+[submodule "testing1"]
+	path = testing1
+	url = https://github.com/teluguskillhub/testing.git
